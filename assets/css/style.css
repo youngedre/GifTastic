@@ -1,0 +1,18 @@
+.gifContainer{
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    overflow: auto;
+}
+.card{
+    background-color: red;
+    overflow: auto;
+    margin:5px 10px;
+    display:inline;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+.gifDiv{
+    display: inline;
+    overflow: auto;
+}
