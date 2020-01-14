@@ -6,3 +6,4 @@ Use Giftastic to load and enjoy many fun gifs, click any of the buttons to go ba
 * Giphy API
 * Javascript
 * HTML
+## Try GifTastic now!  https://youngedre.github.io/GifTastic/
